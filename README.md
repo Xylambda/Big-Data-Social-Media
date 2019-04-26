@@ -14,6 +14,6 @@ This repository provides the code for the subject Data Learning, which forms par
 
 ### 4. Text Mining - Basic mining, Regex LDA 
 
-### Matching
+### 5. Matching
 
-### Forecasting
+### 6. Forecasting
