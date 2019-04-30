@@ -53,8 +53,8 @@ plt.show()
 
 
 # ===================== CREDITS =====================
-# Jake VanderPlas:
-    # -> https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
+### Jake VanderPlas:
+# https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html
     
-# Aletta Smits:
-    # -> Big Data and Social Media / Data Learning Class (week 1 - Day 1)
+### Aletta Smits:
+# Big Data and Social Media / Data Learning Class (week 1 - Day 1)
