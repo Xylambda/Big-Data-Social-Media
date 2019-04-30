@@ -1,5 +1,5 @@
 # Data Learning
-This repository provides the code for the subject Data Learning, which forms part of the course Big Data and Social Media taught in HU Utrecht, translated into Python.
+This repository provides the code for the subject Data Learning, which forms part of the course Big Data and Social Media taught by [Aletta Smits](https://nl.linkedin.com/in/alettasmits) in HU Utrecht, translated into Python.
 
 ## Course Structure
 ### 1. Clustering
