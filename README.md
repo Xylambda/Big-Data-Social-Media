@@ -1,5 +1,5 @@
 # Data Learning
-This repository provides the code for the subject Data Learning, which forms part of the course Big Data and Social Media taught by [Aletta Smits](https://nl.linkedin.com/in/alettasmits) in HU Utrecht, translated into Python.
+This repository provides the code for the subject Data Learning, taught by [Aletta Smits](https://nl.linkedin.com/in/alettasmits) at HU Utrecht, translated into Python.
 
 ## Course Structure
 ### 1. Clustering
@@ -7,13 +7,12 @@ This repository provides the code for the subject Data Learning, which forms par
 * Dummy Variables.
 * Normalization.
 
-### 2. Classification
+### 2. Recommender Systems
 
+### 3. Classification
 
-### 3. Decision Tree and Random Forests
+### 4. Decision Tree and Random Forests
 
-### 4. Text Mining - Basic mining, Regex LDA 
-
-### 5. Matching
+### 5. Regex 
 
 ### 6. Forecasting
