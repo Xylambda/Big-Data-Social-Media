@@ -7,12 +7,14 @@ This repository provides the code for the subject Data Learning, taught by [Alet
 * Dummy Variables.
 * Normalization.
 
-### 2. Recommender Systems
+### 2. Classification
+* Knn classification of Iris dataset
 
-### 3. Classification
+### 3. Recommender Systems
+* Movie recommender system
 
 ### 4. Decision Tree and Random Forests
 
-### 5. Regex 
+### 5. Regex
 
 ### 6. Forecasting
