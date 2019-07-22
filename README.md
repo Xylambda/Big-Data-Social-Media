@@ -11,6 +11,7 @@ This repository provides the code for the subject Data Learning, taught by [Alet
 * Knn classification of Iris dataset
 
 ### 3. Recommender Systems
+* Who is my buddy?
 * Movie recommender system
 
 ### 4. Decision Tree and Random Forests
