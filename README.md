@@ -8,14 +8,18 @@ This repository provides the code for the subject Data Learning, taught by [Alet
 * Normalization.
 
 ### 2. Classification
-* Knn classification of Iris dataset
+* Knn classification of Iris dataset.
 
 ### 3. Recommender Systems
 * Who is my buddy?
-* Movie recommender system
+* Movie recommender system.
 
 ### 4. Decision Tree and Random Forests
+* Decision Tree Classifier.
+* Random Forest Classifier.
 
 ### 5. Regex
+* Clean hastags.
+* Clean Mentions.
 
 ### 6. Forecasting
